@@ -93,15 +93,15 @@
                                         <li class="nav-item">
                                             <a class="page-scroll" href="#about">About</a>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <a class="page-scroll" href="#services">Gallery</a>
-                                        </li>
+                                        </li> -->
                                         <li class="nav-item">
                                             <a class="page-scroll" href="#team">Our Teachers</a>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <a class="page-scroll" href="#blog">Blog</a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div> <!-- navbar collapse -->
                             </nav> <!-- navbar -->
@@ -123,58 +123,41 @@
                             <div class="row">
                                 <div class="col-xl-7 col-lg-8 col-md-10">
                                     <div class="slider-content">
-                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">Complete
-                                            Healthcare Solution
-                                        </h1>
-                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">Lorem ipsum
-                                            dolor sit amet, consetetur sadipscing elitr, sed dinonumy eirmod tempor
-                                            invidunt
-                                            ut labore et dolore magna aliquyam erat. Lorem ipsum dolor sit amet,
-                                            consetetur
-                                            sadipscing elitr.</p>
-                                        <a href="#about" class="btn theme-btn page-scroll" data-animation="fadeInUp" data-duration="1.5s" data-delay=".9s">Learn More</a>
+                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">International Mother Language Day</h1>
+                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">"ছেলেহারা শত মায়ের অশ্রু<br/>
+গড়া এ ফেব্রুয়ারী<br/>
+আমি কি ভুলিতে পারি"<br/>
+পালিত হলো মহান ২১শে ফেব্রুয়ারী ভাষা শহীদদের স্মরণে শ্রদ্ধার্ঘ্য -</p>
+                                        <a href="#about" class="btn theme-btn page-scroll" data-animation="fadeInUp" data-duration="1.5s" data-delay=".9s">More</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <!-- ========================= slider-2 ========================= -->
                     <div class="single-slider img-bg" style="background-image:url('assets/img/slider/slider-2.jpg');">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-7 col-lg-8 col-md-10">
                                     <div class="slider-content">
-                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">Best
-                                            Doctors and Equipments in Town
-                                        </h1>
-                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">Lorem ipsum
-                                            dolor sit amet, consetetur sadipscing elitr, sed dinonumy eirmod tempor
-                                            invidunt
-                                            ut labore et dolore magna aliquyam erat. Lorem ipsum dolor sit amet,
-                                            consetetur
-                                            sadipscing elitr.</p>
-                                        <a href="#contact" class="btn theme-btn page-scroll" data-animation="fadeInUp" data-duration="1.5s" data-delay=".9s">Make
-                                            Appoinment</a>
+                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">ANNUAL PICNIC 2024</h1>
+                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">"Picnics provide opportunities for students to build closer bonds with their classmates, experience a new environment, gain exposure, and enjoy learning away from the classroom. Picnics are among the most exciting activities that both children and adults equally love. They help us divert from daily life, adding a touch of variety to our lives. Furthermore, a picnic can transport us to another world, different from our daily one. Outside the classroom's four walls, students learn to be more independent, make decisions, and even develop leadership skills.</p>
+                                        <a href="#about" class="btn theme-btn page-scroll" data-animation="fadeInUp" data-duration="1.5s" data-delay=".9s">More</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <!-- ========================= slider-3 ========================= -->
                     <div class="single-slider img-bg" style="background-image:url('assets/img/slider/slider-3.jpg');">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-7 col-lg-8 col-md-10">
                                     <div class="slider-content">
-                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">Your
-                                            Health is Our Top Priority
-                                        </h1>
-                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">Lorem ipsum
-                                            dolor sit amet, consetetur sadipscing elitr, sed dinonumy eirmod tempor
-                                            invidunt
-                                            ut labore et dolore magna aliquyam erat. Lorem ipsum dolor sit amet,
-                                            consetetur
-                                            sadipscing elitr.</p>
+                                        <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">Bangla spelling bee competition-2024</h1>
+                                        <p data-animation="fadeInLeft" data-duration="1.5s" data-delay=".7s">Bangla spelling bee competition is a unique spelling competition which will provide a platform for all Bengali speaking students to improve their vocabulary skills and compete at the national and international level</p>
                                         <a href="#services" class="btn theme-btn page-scroll" data-animation="fadeInUp" data-duration="1.5s" data-delay=".9s">Our Services</a>
                                     </div>
                                 </div>
@@ -247,7 +230,7 @@
     <!-- ========================= about-section end ========================= -->
 
     <!--========================= gallery-cards start ========================= -->
-    <section id="services" class="service-section pt-150">
+    <!-- <section id="services" class="service-section pt-150">
         <div class="shape shape-3">
             <img src="assets/img/shapes/shape-3.svg" alt="">
         </div>
@@ -264,8 +247,7 @@
             <div class="row">
 
 
-                <!--========================= gallery card item start ========================= -->
-
+         
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item mb-30">
                         <div class="service-icon mb-25">
@@ -278,90 +260,11 @@
                         <div class="service-overlay img-bg"></div>
                     </div>
                 </div>
-                <!--========================= gallery card item end ========================= -->
-
-                <!--========================= gallery card item start ========================= -->
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item mb-30">
-                        <div class="service-icon mb-25">
-                            <img src="assets/img/slider/slider-1.jpg" width="100%" alt="">
-                        </div>
-                        <div class="service-content">
-                            <p>21 Feb, 2024</p>
-                            <a href="#" class="read-more">Read More <i class="lni lni-arrow-right"></i></a>
-                        </div>
-                        <div class="service-overlay img-bg"></div>
-                    </div>
-                </div>
-                <!--========================= gallery card item end ========================= -->
-
-                <!--========================= gallery card item start ========================= -->
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item mb-30">
-                        <div class="service-icon mb-25">
-                            <img src="assets/img/slider/slider-1.jpg" width="100%" alt="">
-                        </div>
-                        <div class="service-content">
-                            <p>21 Feb, 2024</p>
-                            <a href="#" class="read-more">Read More <i class="lni lni-arrow-right"></i></a>
-                        </div>
-                        <div class="service-overlay img-bg"></div>
-                    </div>
-                </div>
-                <!--========================= gallery card item end ========================= -->
-
-                <!--========================= gallery card item start ========================= -->
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item mb-30">
-                        <div class="service-icon mb-25">
-                            <img src="assets/img/slider/slider-1.jpg" width="100%" alt="">
-                        </div>
-                        <div class="service-content">
-                            <p>21 Feb, 2024</p>
-                            <a href="#" class="read-more">Read More <i class="lni lni-arrow-right"></i></a>
-                        </div>
-                        <div class="service-overlay img-bg"></div>
-                    </div>
-                </div>
-                <!--========================= gallery card item end ========================= -->
-
-                <!--========================= gallery card item start ========================= -->
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item mb-30">
-                        <div class="service-icon mb-25">
-                            <img src="assets/img/slider/slider-1.jpg" width="100%" alt="">
-                        </div>
-                        <div class="service-content">
-                            <p>21 Feb, 2024</p>
-                            <a href="#" class="read-more">Read More <i class="lni lni-arrow-right"></i></a>
-                        </div>
-                        <div class="service-overlay img-bg"></div>
-                    </div>
-                </div>
-                <!--========================= gallery card item end ========================= -->
-
-                <!--========================= gallery card item start ========================= -->
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item mb-30">
-                        <div class="service-icon mb-25">
-                            <img src="assets/img/slider/slider-1.jpg" width="100%" alt="">
-                        </div>
-                        <div class="service-content">
-                            <p>21 Feb, 2024</p>
-                            <a href="#" class="read-more">Read More <i class="lni lni-arrow-right"></i></a>
-                        </div>
-                        <div class="service-overlay img-bg"></div>
-                    </div>
-                </div>
-                <!--========================= gallery card item end ========================= -->
+         
+       
             </div>
         </div>
-    </section>
+    </section> -->
     <!--========================= gallery-cards end ========================= -->
 
     <!-- ========================= team-section start ========================= -->
@@ -441,7 +344,7 @@
     <!-- ========================= team-section end ========================= -->
 
     <!-- ========================= blog-section start ========================= -->
-    <section id="blog" class="blog-section pt-150 pb-150">
+    <!-- <section id="blog" class="blog-section pt-150 pb-150">
         <div class="shape shape-7">
             <img src="assets/img/shapes/shape-6.svg" alt="">
         </div>
@@ -503,7 +406,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- ========================= blog-section end ========================= -->
 
     <!-- ========================= footer start ========================= -->
