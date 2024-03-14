@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => 'gmis-admin',
+    'name' => 'GreenMind School',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<b>GMIS</b> admin',
+    'logo' => '<img src="assets/img/logo/logo_long.png" alt="GMIS Admin" style="height: 40px">',
 
     /*
     |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
     | '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo-mini' => '<b>GM</b>',
+    'logo-mini' => '<img src="assets/img/logo/logo.png" alt="GMIS Admin" style="height: 40px">',
 
     /*
     |--------------------------------------------------------------------------
@@ -95,7 +95,7 @@ return [
     | If your page is going to be accessed via https, set it to `true`.
     |
     */
-    'https' => env('ADMIN_HTTPS', false),
+    'https' => env('ADMIN_HTTPS', true),
 
     /*
     |--------------------------------------------------------------------------

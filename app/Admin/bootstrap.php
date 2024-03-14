@@ -18,4 +18,10 @@
  *
  */
 
+Use Encore\Admin\Admin;
+
 Encore\Admin\Form::forget(['map', 'editor']);
+
+
+Admin::favicon('assets/img/favicon.ico');
+
