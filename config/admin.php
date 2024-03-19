@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<img src="assets/img/logo/logo_long.png" alt="GMIS Admin" style="height: 40px">',
+    'logo' => '<img src="/assets/img/logo/logo_long.png" alt="GMIS Admin" style="width: 100%;">',
 
     /*
     |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
     | '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo-mini' => '<img src="assets/img/logo/logo.png" alt="GMIS Admin" style="height: 40px">',
+    'logo-mini' => '<img src="/assets/img/logo/logo.png" alt="GMIS Admin" style="height: 40px">',
 
     /*
     |--------------------------------------------------------------------------
@@ -249,7 +249,7 @@ return [
     | Set a default avatar for newly created users.
     |
     */
-    'default_avatar' => '/vendor/laravel-admin/AdminLTE/dist/img/user2-160x160.jpg',
+    'default_avatar' => '/assets/img/misc/profile-icon.jpg',
 
     /*
     |--------------------------------------------------------------------------

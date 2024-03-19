@@ -26,5 +26,5 @@ Encore\Admin\Form::forget(['map', 'editor']);
 Admin::favicon('assets/img/favicon.ico');
 
 
-Admin::style('body {background-size: "contain" !important;}');
+Admin::style('.main-footer strong{display: none;}');
 
